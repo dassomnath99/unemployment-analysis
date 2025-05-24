@@ -27,7 +27,7 @@ This project provides a detailed analysis of unemployment trends in India during
 - Heatmaps and time series plots to understand patterns
 - Insights into how unemployment varied by region and time
 
-## 📈 Features
+## 🖼️ Images
 
 ![Homepage Screenshot](screenshots/1.png)
 ![Homepage Screenshot](screenshots/2.png)
