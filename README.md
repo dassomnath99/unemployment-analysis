@@ -29,8 +29,8 @@ This project provides a detailed analysis of unemployment trends in India during
 
 ## 📈 Features
 
-![Homepage Screenshot](screenshots/1.jpg)
-![Homepage Screenshot](screenshots/2.jpg)
+![Homepage Screenshot](screenshots/1.png)
+![Homepage Screenshot](screenshots/2.png)
 
 ## 🚀 Getting Started
 
